@@ -1,13 +1,35 @@
-# GitHub Activity
+# Project Title
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&layout=compact&cache_seconds=3600)
+Description of the project.
 
-# Top Languages
+## Installation
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&cache_seconds=3600)
+Instructions on how to install the project.
+
+## Usage
+
+Instructions on how to use the project.
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Contributing
+
+Instructions for contributing.
+
+## License
+
+Information about the license.
+
+## GitHub Stats
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=lessapwb&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages
+- JavaScript
+- Python
+- Java
+- C++
 
 ---
-
-## Languages Section
-- **Language 1:** Description
-- **Language 2:** Description

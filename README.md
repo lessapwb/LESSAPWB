@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Patrick Lessa</h1>
+<h1 align="center">Hi, I'm Patrick Lessa</h1>
 <h3 align="center">Full Stack Developer • Web Applications • Automation • AI</h3>
 
 <p align="center">
   Florianópolis, SC (Brazil) · Remote-friendly<br/>
-  📧 patrickwbarbosa@gmail.com
+  patrickwbarbosa@gmail.com
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 Full Stack Developer with **5+ years of hands-on experience** building scalable web applications, automating data pipelines, and delivering data-driven solutions. Strong in **Python backend** (Django, Flask, FastAPI), **frontend** (React.js, Next.js, TypeScript/JavaScript), **APIs** (REST, GraphQL), queues/messaging, SQL, and data processing (Pandas, EDA, web scraping).
 
@@ -24,7 +24,7 @@ I thrive at the intersection of **engineering, AI, and business** — building e
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -63,7 +63,7 @@ I thrive at the intersection of **engineering, AI, and business** — building e
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Senior Python Full Stack & BI Engineer — Mouts TI
 **Jul 2024 – Present**
@@ -96,7 +96,7 @@ I thrive at the intersection of **engineering, AI, and business** — building e
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Period |
 |---|---|---|
@@ -104,46 +104,33 @@ I thrive at the intersection of **engineering, AI, and business** — building e
 | **MSc in Business Administration** (CAPES Scholarship) | Federal University of Santa Catarina (UFSC) | Mar 2022 – Jan 2024 |
 | **BSc in Business Administration** (PIBIC/CNPq Research Fellow) | Federal University of Cariri (UFCA) | Mar 2018 – Jan 2021 |
 
-> 🔬 **Research Focus:** Data-Driven Marketing, advanced analytics, and market segmentation.
+> **Research Focus:** Data-Driven Marketing, advanced analytics, and market segmentation.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 🏅 **Python Data Analytics** — DIO
-- 🏅 **Supervised Machine Learning** — Coursera
-- 🏅 **Python Programming** — Udemy
-- 🏅 **Google Data Analytics** — Coursera
-- 🏅 **Microsoft Power BI** — Udemy
-- 🏅 **Data Handling and Visualization** — UFCA
+- **Python Data Analytics** — DIO
+- **Supervised Machine Learning** — Coursera
+- **Python Programming** — Udemy
+- **Google Data Analytics** — Coursera
+- **Microsoft Power BI** — Udemy
+- **Data Handling and Visualization** — UFCA
 
 ---
 
-## 🌍 Languages
+## Languages
 
 | Language | Level |
 |---|---|
-| 🇧🇷 Portuguese | Native |
-| 🇺🇸 English | Advanced |
-| 🇪🇸 Spanish | Basic |
-| 🇫🇷 French | Basic |
+| Portuguese | Native |
+| English | Advanced |
+| Spanish | Basic |
+| French | Basic |
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=lessapwb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Patrick Lessa's GitHub stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessapwb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top programming languages"
-  />
-</p>
+## GitHub Activity
 
 <p align="center">
   <img
@@ -154,7 +141,7 @@ I thrive at the intersection of **engineering, AI, and business** — building e
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to collaborating on **full-stack web applications**, **automation pipelines**, **AI-powered solutions**, or **data-driven platforms**. If you're building something impactful, let's talk!
 

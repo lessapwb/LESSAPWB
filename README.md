@@ -1,109 +1,164 @@
-# Patrick Lessa — Analytics & BI | Data Modeling • SQL • Python
+<h1 align="center">Hi 👋, I'm Patrick Lessa</h1>
+<h3 align="center">Full Stack Developer • Web Applications • Automation • AI</h3>
 
-Florianópolis, SC (Brazil) • Remote-friendly  
-📧 patrickwbarbosa@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/lessapwb) | [GitHub](https://github.com/lessapwb) | [Lattes](http://lattes.cnpq.br)
+<p align="center">
+  Florianópolis, SC (Brazil) · Remote-friendly<br/>
+  📧 patrickwbarbosa@gmail.com
+</p>
 
----
-
-## Professional Summary
-Analytics & BI professional with **8+ years of experience** in BI, analytics, and automation, turning data into **executive decision support**. Strong foundation in **SQL**, **Python**, **dimensional modeling**, **Power BI**, and multi-source integration, with hands-on delivery in **Microsoft Fabric** environments (Dataflows Gen2, Lakehouse, Spark notebooks) in enterprise contexts.
-
-I enjoy working at the interface between **business and technology**—translating analytical requirements into sustainable, governed, and scalable solutions.
-
----
-
-## Core Competencies
-- **Analytics Engineering / BI**: KPIs, metrics layers, dashboard structures, statistical analysis, decision support
-- **Data Modeling**: dimensional modeling (star schema), semantic models, performance optimization, RLS
-- **Microsoft Stack**: Power BI, DAX, Power Query, **Microsoft Fabric** (Dataflows Gen2, Lakehouse, Spark notebooks)
-- **Data Integration / Pipelines**: multi-source ingestion, transformation, standardization, governance
-- **Python**: automation, ETL, APIs, documentation, Git-based workflows
+<p align="center">
+  <a href="https://www.linkedin.com/in/lessapwb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/lessapwb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="http://lattes.cnpq.br"><img src="https://img.shields.io/badge/Lattes-14548A?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes"/></a>
+</p>
 
 ---
 
-## Experience
+## 🧑‍💻 About Me
 
-### Senior Power Platform Developer — Mouts TI (Client: Atlas Renewable Energy)
-**Jul 2024 – Present** • Remote (Florianópolis, SC)
-- Built strategic dashboards for **Insurance, Commercial, and Energy Balance** supporting decisions on **curtailment, spot prices, and energy buy/sell** across LATAM.
-- Designed and optimized Power BI semantic models using **star schema**, implemented **RLS by country**, and improved performance/reliability.
-- Automated critical processes with **Python** integrating **SharePoint**, **REST APIs**, and **Zeus (ETRM)** to eliminate recurring manual workflows.
-- Architected end-to-end ingestion pipelines with **Apache Airflow + Docker** for market and valuation data across multiple countries.
-- Implemented transformations and business rules for forecasts, price curves, and curtailment with focus on **consistency and standardization**.
-- Produced technical documentation for models and metrics to support **governance and maintainability**.
+Full Stack Developer with **5+ years of hands-on experience** building scalable web applications, automating data pipelines, and delivering data-driven solutions. Strong in **Python backend** (Django, Flask, FastAPI), **frontend** (React.js, Next.js, TypeScript/JavaScript), **APIs** (REST, GraphQL), queues/messaging, SQL, and data processing (Pandas, EDA, web scraping).
 
-**Spot projects**
-- **Starrett**: migrated SharePoint list data to **Azure SQL**; updated **Power Apps** to new architecture; improved app performance/UX.
-- **credi&gente**: delivered dashboards for credit monitoring & customer service; structured SharePoint + Power BI modeling; automated data preparation; managed deliveries via **Azure DevOps (Kanban)**.
-- **Engie**:
-  - Automated ingestion of **14 data sources** (SharePoint + SQL), reducing monthly preparation from **6h to 45m (~85%)**.
-  - Worked in **Microsoft Fabric** (Dataflows, Lakehouse, Spark notebooks) for standardization and data availability.
-  - Delivered executive dashboards highlighting LATAM risks in **<30 days**, later scaled globally.
-  - Built **3 Power Apps** solutions integrated with Power Automate to reduce manual errors and rework.
+Proven ability to **automate ETL workflows** (reducing prep time by up to **85%**), integrate multi-source systems, and create performant dashboards used by executive teams across **LATAM and Europe**. Currently pursuing a **PhD in Business Administration** with a focus on Data-Driven Marketing and advanced analytics.
 
-### Data Analyst & Project Manager — TD Business
-**Apr 2023 – Jul 2024** • Remote (Florianópolis, SC)
-- Led and co-led delivery of intelligence centers for public agencies and strategic institutions.
-- Contributed to **100+ BI dashboards**, including projects with **MEC**, **FEESC**, and the **Brazilian Space Agency**.
-- Supported the **Sebrae Startups Observatory**, structuring analyses to map innovation ecosystems.
-- Translated business demands into indicators and dashboard structures focused on usability and value generation.
+I thrive at the intersection of **engineering, AI, and business** — building end-to-end solutions that are scalable, automated, and impact-driven.
 
-### Junior Data Analyst — FEESC
-**Feb 2023 – Apr 2023** • Remote
-- Supported mapping/monitoring of **363 institutional processes** for improved operational visibility.
-- Created **20+ strategic KPIs** for Distance Education.
-- Automated **10 manual spreadsheets**, cutting updates from weeks to days.
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### Core Skills
+
+| Area | Technologies |
+|---|---|
+| **Backend** | Python · Django · Flask · FastAPI · Node.js · REST API · GraphQL · Queues & Messaging |
+| **Frontend** | React.js · Next.js · TypeScript · JavaScript |
+| **Data & Analytics** | Pandas · NumPy · SQL · EDA · Web Scraping · Power BI (DAX, Power Query, Data Modeling) |
+| **AI & ML** | LangChain · CrewAI · LLM Integration & Evaluation · GenAI Prototyping · Supervised & Unsupervised Learning · Regression · CFA/SEM |
+| **DevOps & Cloud** | Docker · Kubernetes · GitHub Actions · Terraform · Ansible · Jenkins · Azure · AWS · GCP |
+
+---
+
+## 💼 Experience
+
+### Senior Python Full Stack & BI Engineer — Mouts TI
+**Jul 2024 – Present**
+- Automated **ETL pipelines in Python** integrating **14 sources** (SharePoint + SQL), cutting monthly data preparation time by **85%**.
+- Built **executive dashboards** (React.js frontend + FastAPI/Django backend) to identify operational risks in LATAM; solution successfully **scaled to Europe**.
+- Developed **3 enterprise-grade Power Apps** integrated with Python/Power Automate flows and messaging queues, eliminating manual data-entry errors.
+- Designed scalable **SQL/Pandas data models** and optimized DAX calculations for high-performance analytics.
+- Leveraged **Azure & AWS** integrated ecosystem for automated, scheduled ETL refreshes and cross-regional dashboard distribution.
+- Implemented **CI/CD pipelines** using GitHub Actions and Docker for zero-downtime releases and automated testing in production.
+
+### Full Stack Data Engineer & Project Lead — TD Business
+**Apr 2023 – Jul 2024**
+- Directed data intelligence projects for public-sector clients, building structured datasets and BI platforms using **Python backends** and **React/Next.js frontends**.
+- Created analytical dashboards for **Ministry of Education (MEC)** to uncover operational bottlenecks with SQL + regression modeling.
+- Delivered **100+ standardized BI dashboards** for Stemmer Foundation (FEESC) using automated Python ETL and Flask services.
+- Engineered data infrastructure and BI solutions for **Brazilian Space Agency (AEB)** via Django APIs and advanced segmentation.
+- Designed **Sebrae Startups Observatory** platform (Next.js + GraphQL/FastAPI) to track innovation ecosystems through structured KPIs and ML insights.
+
+### Junior Data Analyst — Stemmer Foundation (FEESC)
+**Feb 2023 – Apr 2023**
+- Mapped and monitored **363 institutional processes** using Python for data visibility and Git for version control.
+- Developed **20+ strategic KPIs** for Distance Education with EDA and unsupervised learning in Python.
+- Automated and standardized **10 manual spreadsheets** using Pandas and SQL, reducing reporting cycles from weeks to days.
 
 ### Marketing Strategist — Informal (Design & Architecture)
-**Aug 2021 – Dec 2023** • Fortaleza, CE
-- Conducted market research and behavior analysis; built segmented, data-driven campaigns.
-- Used performance metrics and feedback loops to iterate strategy and support commercial decisions.
+**Aug 2021 – Dec 2023**
+- Conducted quantitative and qualitative market research using Python for structured data methods and web scraping.
+- Applied segmentation and performance metrics with **machine learning models** to design data-driven strategies.
+- Monitored KPIs and optimized initiatives based on measurable outcomes using regression analysis and API integrations.
 
 ---
 
-## Projects (Selected)
-> If you want, I can help you convert these into case study cards with links, screenshots, and a short Problem → Approach → Impact format.
+## 🎓 Education
 
-- **Xplore Data (experimental)** — Python-based analytics/automation projects and insight generation
-- **Startups mapping / innovation ecosystem** — Power BI analyses for Sebrae initiative
-- **Transparency dashboards** — institutional reporting and governance-oriented views
+| Degree | Institution | Period |
+|---|---|---|
+| **PhD in Business Administration** (in progress) | Federal University of Santa Catarina (UFSC) | Jan 2024 – Present |
+| **MSc in Business Administration** (CAPES Scholarship) | Federal University of Santa Catarina (UFSC) | Mar 2022 – Jan 2024 |
+| **BSc in Business Administration** (PIBIC/CNPq Research Fellow) | Federal University of Cariri (UFCA) | Mar 2018 – Jan 2021 |
 
----
-
-## Education
-- **PhD in Business Administration (in progress)** — UFSC  
-  Focus: Data-driven marketing and market segmentation
-- **MSc in Business Administration** — UFSC (CAPES scholarship)  
-  Mixed methods; Python web scraping; surveys; exploratory factor analysis
-- **BSc in Business Administration** — UFCA (PIBIC/CNPq scholarship)
+> 🔬 **Research Focus:** Data-Driven Marketing, advanced analytics, and market segmentation.
 
 ---
 
-## Languages
-- **Portuguese:** Native
-- **English:** Advanced
-- **Spanish:** Basic
-- **French:** Basic
+## 📜 Certifications
+
+- 🏅 **Python Data Analytics** — DIO
+- 🏅 **Supervised Machine Learning** — Coursera
+- 🏅 **Python Programming** — Udemy
+- 🏅 **Google Data Analytics** — Coursera
+- 🏅 **Microsoft Power BI** — Udemy
+- 🏅 **Data Handling and Visualization** — UFCA
 
 ---
 
-## GitHub Activity
+## 🌍 Languages
 
-<p align="left">
+| Language | Level |
+|---|---|
+| 🇧🇷 Portuguese | Native |
+| 🇺🇸 English | Advanced |
+| 🇪🇸 Spanish | Basic |
+| 🇫🇷 French | Basic |
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=lessapwb&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=lessapwb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="Patrick Lessa's GitHub stats"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessapwb&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessapwb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lessapwb&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 ---
 
-### Let’s connect
-If you’re building or scaling analytics (Power BI/Fabric), improving data quality/governance, or automating data workflows with Python, I’d love to collaborate.
+## 🤝 Let's Connect
+
+I'm always open to collaborating on **full-stack web applications**, **automation pipelines**, **AI-powered solutions**, or **data-driven platforms**. If you're building something impactful, let's talk!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lessapwb"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:patrickwbarbosa@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>

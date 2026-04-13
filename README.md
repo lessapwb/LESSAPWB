@@ -58,7 +58,7 @@ I thrive at the intersection of **engineering, AI, and business** — building e
 | **Backend** | Python · Django · Flask · FastAPI · Node.js · REST API · GraphQL · Queues & Messaging |
 | **Frontend** | React.js · Next.js · TypeScript · JavaScript |
 | **Data & Analytics** | Pandas · NumPy · SQL · EDA · Web Scraping · Power BI (DAX, Power Query, Data Modeling) |
-| **AI & ML** | LangChain · CrewAI · LLM Integration & Evaluation · GenAI Prototyping · Supervised & Unsupervised Learning · Regression · CFA/SEM |
+| **AI & ML** | LangChain · CrewAI · LLM Integration & Evaluation · GenAI Prototyping · Supervised & Unsupervised Learning · Regression · CFA (Confirmatory Factor Analysis) / SEM |
 | **DevOps & Cloud** | Docker · Kubernetes · GitHub Actions · Terraform · Ansible · Jenkins · Azure · AWS · GCP |
 
 ---
@@ -68,7 +68,7 @@ I thrive at the intersection of **engineering, AI, and business** — building e
 ### Senior Python Full Stack & BI Engineer — Mouts TI
 **Jul 2024 – Present**
 - Automated **ETL pipelines in Python** integrating **14 sources** (SharePoint + SQL), cutting monthly data preparation time by **85%**.
-- Built **executive dashboards** (React.js frontend + FastAPI/Django backend) to identify operational risks in LATAM; solution successfully **scaled to Europe**.
+- Built **executive dashboards** (React.js frontend + FastAPI backend, Django for admin) to identify operational risks in LATAM; solution successfully **scaled to Europe**.
 - Developed **3 enterprise-grade Power Apps** integrated with Python/Power Automate flows and messaging queues, eliminating manual data-entry errors.
 - Designed scalable **SQL/Pandas data models** and optimized DAX calculations for high-performance analytics.
 - Leveraged **Azure & AWS** integrated ecosystem for automated, scheduled ETL refreshes and cross-regional dashboard distribution.
@@ -80,7 +80,7 @@ I thrive at the intersection of **engineering, AI, and business** — building e
 - Created analytical dashboards for **Ministry of Education (MEC)** to uncover operational bottlenecks with SQL + regression modeling.
 - Delivered **100+ standardized BI dashboards** for Stemmer Foundation (FEESC) using automated Python ETL and Flask services.
 - Engineered data infrastructure and BI solutions for **Brazilian Space Agency (AEB)** via Django APIs and advanced segmentation.
-- Designed **Sebrae Startups Observatory** platform (Next.js + GraphQL/FastAPI) to track innovation ecosystems through structured KPIs and ML insights.
+- Designed **Sebrae Startups Observatory** platform (Next.js frontend + GraphQL API powered by FastAPI backend) to track innovation ecosystems through structured KPIs and ML insights.
 
 ### Junior Data Analyst — Stemmer Foundation (FEESC)
 **Feb 2023 – Apr 2023**
